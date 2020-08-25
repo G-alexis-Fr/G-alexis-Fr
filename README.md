@@ -4,12 +4,10 @@ I'm **Alexis** from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazo
 
 - 🔭 I’m currently working on **Computer Vision** 
 - 🌱 I’m currently learning **OpenCv**
-- 👯 I’m looking to collaborate on **some cools projects**
+- 👯 I’m looking to collaborate on **Some cool projects**
 - 🤔 I’m looking for help with **OpenCv**
-- 💬 Ask me about **anything**
+- 💬 Ask me about **anything** always happy to help
 - 📫 How to reach me: **contact@g-alexis.fr**
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 ## **Languages & Tools :**
 

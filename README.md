@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **alex424242/alex424242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

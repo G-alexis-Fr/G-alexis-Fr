@@ -1,6 +1,6 @@
 ## Hi everyone 👋
 
-I'm **Alexis** from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/flag-france_1f1eb-1f1f7.png" width="30" height="20" /> currently intern in South Korea <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/flag-south-korea_1f1f0-1f1f7.png" width="30" height="20" />
+I'm **Alexis** from <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/flag-france_1f1eb-1f1f7.png" width="30" height="20" /> currently working in <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/241/flag-south-korea_1f1f0-1f1f7.png" width="30" height="20" />
 
 - 🔭 I’m currently working on **Computer Vision** 
 - 🌱 I’m currently learning **OpenCv**
